@@ -1,0 +1,24 @@
+{
+    "name": "skynet1997/di",
+    "description": "psr/container implementation for humans",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Skynet1997\\DI": "src/"
+        }
+    },
+    "require": {
+        "psr/container": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "SkyNet322",
+            "email": "aliev_arkadij@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable"
+}
